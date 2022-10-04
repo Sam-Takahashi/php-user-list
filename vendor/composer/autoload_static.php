@@ -18,7 +18,6 @@ class ComposerStaticInitcae298a30415fb86fdab515a9ccf2ba3
             'Symfony\\Polyfill\\Php80\\' => 23,
             'Symfony\\Polyfill\\Mbstring\\' => 26,
             'Symfony\\Polyfill\\Ctype\\' => 23,
-            'Symfony\\Component\\Dotenv\\' => 25,
         ),
         'P' => 
         array (
@@ -46,10 +45,6 @@ class ComposerStaticInitcae298a30415fb86fdab515a9ccf2ba3
         'Symfony\\Polyfill\\Ctype\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-ctype',
-        ),
-        'Symfony\\Component\\Dotenv\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/symfony/dotenv',
         ),
         'PhpOption\\' => 
         array (

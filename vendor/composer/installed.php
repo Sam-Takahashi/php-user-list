@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'c3f840482ad83aac4fdf159c6a2437128ffcd1c1',
+        'reference' => '79bfae7cc746e84e14970c50bf8b8b3e8b8998e5',
         'name' => '__root__',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'c3f840482ad83aac4fdf159c6a2437128ffcd1c1',
+            'reference' => '79bfae7cc746e84e14970c50bf8b8b3e8b8998e5',
             'dev_requirement' => false,
         ),
         'graham-campbell/result-type' => array(
@@ -35,15 +35,6 @@
             'install_path' => __DIR__ . '/../phpoption/phpoption',
             'aliases' => array(),
             'reference' => 'dc5ff11e274a90cc1c743f66c9ad700ce50db9ab',
-            'dev_requirement' => false,
-        ),
-        'symfony/dotenv' => array(
-            'pretty_version' => 'v6.0.5',
-            'version' => '6.0.5.0',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../symfony/dotenv',
-            'aliases' => array(),
-            'reference' => '1c2288fdfd0787288cd04b9868f879f2212159c4',
             'dev_requirement' => false,
         ),
         'symfony/polyfill-ctype' => array(
